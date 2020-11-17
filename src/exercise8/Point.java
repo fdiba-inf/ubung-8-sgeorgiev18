@@ -63,6 +63,6 @@ public class Point {
 
     public String toString() {
         // Represent attributes as string
-        return "(" + x + ", " + y ")";
+        return "(" + x + ", " + y + ")";
     }
 }
