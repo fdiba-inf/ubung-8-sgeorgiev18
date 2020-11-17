@@ -25,7 +25,7 @@ public class Point {
         // Initialize attributes by coping attributes of otherPoint
 
         x = otherPoint.x;
-        y = otherPont.y;
+        y = otherPoint.y;
     }
 
     public void initialize() {
